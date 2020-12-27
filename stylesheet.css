@@ -1,1 +1,9 @@
-dd
+h1 {
+  color: lightblue;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
